@@ -1,7 +1,10 @@
 changed
 change 2
+<<<<<<< HEAD
 1111
 
 
 me
 a
+=======
+>>>>>>> 51ba5b3... new added
